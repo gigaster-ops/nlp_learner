@@ -2,6 +2,9 @@
 <span>
 	Графический интерфейс для обучения нейронных сетей
 </span>
+<span>
+	Также есть код для запуска сервера server.py
+</span>
 <img src="img1.png">
 <img src="img2.png">
 <img src="img3.png">
