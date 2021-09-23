@@ -1,0 +1,9 @@
+/.idea
+/__pycache__
+/exes
+/models
+/venv
+acc.txt
+example.csv
+model2.pth
+Spam Threats Test.csv
